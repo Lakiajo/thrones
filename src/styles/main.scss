@@ -1,3 +1,4 @@
+@import './colors';
 body {
-    background-color: rgb(129, 202, 178);
+    background-color: $background;
 }
